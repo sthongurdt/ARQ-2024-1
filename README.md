@@ -3,7 +3,7 @@ Entrega de trabajos finales para la materia Arquitectura de Computadores.
 
 # Videos
 - Grupo 1 [Aqui](https://youtu.be/2NRz6RxW5mc)
-- Grupo 2 [Aqui]()
+- Grupo 2 [Aqui](https://youtu.be/dafyyMnlnl8)
 - Grupo 3 [Aqui](https://youtu.be/7jaQSge6ats)
 - Grupo 4 [Aqui]()
 - Grupo 5 [Aqui](https://youtu.be/Vhvw6xo5oaA)
